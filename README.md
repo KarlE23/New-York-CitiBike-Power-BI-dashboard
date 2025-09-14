@@ -1,0 +1,2 @@
+# New-York-CitiBike-Power-BI-dashboard
+This Power BI report provides an interactive analysis of CitiBike usage, focusing on rider demographics, trip behaviors, and station activity. It highlights key trends such as peak usage times, popular start and end locations, and differences between subscriber and casual riders. The dashboard allows stakeholders to explore usage patterns across time, geography, and customer type to support data-driven decisions around bike availability, station planning, and service optimization
